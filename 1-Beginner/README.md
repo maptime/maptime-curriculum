@@ -2,6 +2,8 @@
 
 *in progress*
 
+> referencing: http://maptime.io/blog/2015/01/13/learning-together-in-2015/
+
 ## Learning Objectives
 By the end of this course, students should be able to communicate their understanding about the following concepts:
 
@@ -26,3 +28,22 @@ In order to use these tools, students also need to be able to identify and work 
 ...as well as the following languages:
 
 * CartoCSS
+* 
+
+##Outline
+
+Lesson 01: What's a Web Map?
+* Content: Anatomy of a Web Map
+* Activity: 
+
+Lesson 02: Where do you find data for a map?
+* Content: OSM 101
+    * Include: review of common attributes 
+* Activity: Use the ID Editor
+* Activity: Find other sources of Data
+
+Lesson 03: Mapping Points with CartoDB
+* Content: 
+* Activity: Add some points to a CartoDB map and style them.
+
+Lesson 04: 
